@@ -65,7 +65,7 @@ export default function Footer() {
                             Get in Touch
                         </h4>
                         <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem', fontSize: '0.875rem' }}>
-                            <a href="mailto:hello@juvanemoonsami.com">hello@juvanemoonsami.com</a>
+                            <a href="mailto:jm@moreromedia.co.za">jm@moreromedia.co.za</a>
                             <Link href="/contact" className="btn btn-outline" style={{
                                 marginTop: '0.5rem',
                                 padding: '0.5rem 1rem',

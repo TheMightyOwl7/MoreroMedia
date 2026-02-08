@@ -25,7 +25,7 @@ const greatVibes = Great_Vibes({
 });
 
 export const metadata = {
-  metadataBase: new URL('https://juvanemoonsami.com'),
+  metadataBase: new URL('https://moreromedia.co.za'),
   title: {
     default: 'Juvane Moonsami Photography',
     template: '%s | Juvane Moonsami',
@@ -37,7 +37,7 @@ export const metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://juvanemoonsami.com',
+    url: 'https://moreromedia.co.za',
     siteName: 'Juvane Moonsami Photography',
     images: [
       {

@@ -265,13 +265,13 @@ export default function Contact() {
                             Prefer email directly?
                         </p>
                         <a
-                            href="mailto:hello@juvanemoonsami.com"
+                            href="mailto:jm@moreromedia.co.za"
                             style={{
                                 color: 'var(--color-accent)',
                                 fontSize: '1.125rem',
                             }}
                         >
-                            hello@juvanemoonsami.com
+                            jm@moreromedia.co.za
                         </a>
                     </motion.div>
 
