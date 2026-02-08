@@ -5,7 +5,7 @@ export const projects = [
         title: 'Winter 2025 Collection',
         brief: 'Fashion campaign for the Winter 2025 seasonal collection',
         category: 'Fashion',
-        image: '/images/corporate/placeholder.jpg',
+        image: '', // Placeholder removed
     },
     {
         id: 'woolworths-home',
@@ -13,23 +13,7 @@ export const projects = [
         title: 'Home Collection',
         brief: 'Lifestyle photography for the home & living catalogue',
         category: 'Commercial',
-        image: '/images/corporate/placeholder.jpg',
-    },
-    {
-        id: 'brand-campaign',
-        client: 'Brand',
-        title: 'Campaign 2025',
-        brief: 'Brand awareness campaign for digital and print',
-        category: 'Commercial',
-        image: '/images/corporate/placeholder.jpg',
-    },
-    {
-        id: 'fashion-editorial',
-        client: 'Magazine',
-        title: 'Editorial Spread',
-        brief: 'Fashion editorial for quarterly publication',
-        category: 'Editorial',
-        image: '/images/corporate/placeholder.jpg',
+        image: '', // Placeholder removed
     },
 ];
 
@@ -53,11 +37,7 @@ export const caseStudies: Record<string, {
             'Mix of lifestyle and product-focused shots',
         ],
         result: 'Images used across 200+ stores nationwide, digital campaigns, and seasonal catalogue.',
-        images: [
-            '/images/corporate/placeholder.jpg',
-            '/images/corporate/placeholder.jpg',
-            '/images/corporate/placeholder.jpg',
-        ],
+        images: [], // Placeholders removed
         category: 'Fashion',
     },
     'woolworths-home': {
@@ -70,10 +50,7 @@ export const caseStudies: Record<string, {
             'Lifestyle approach showing products in context',
         ],
         result: 'Featured in national advertising campaign and in-store displays.',
-        images: [
-            '/images/corporate/placeholder.jpg',
-            '/images/corporate/placeholder.jpg',
-        ],
+        images: [], // Placeholders removed
         category: 'Commercial',
     },
 };

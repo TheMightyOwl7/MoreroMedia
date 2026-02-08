@@ -30,6 +30,9 @@ export const metadata = {
     default: 'Juvane Moonsami Photography',
     template: '%s | Juvane Moonsami',
   },
+  alternates: {
+    canonical: './',
+  },
   description: 'Pro Photography Portfolio specializing in Commercial, Fashion, and Lifestyle photography.',
   keywords: ['Photography', 'Commercial', 'Fashion', 'Lifestyle', 'Juvane Moonsami', 'South Africa'],
   authors: [{ name: 'Juvane Moonsami' }],

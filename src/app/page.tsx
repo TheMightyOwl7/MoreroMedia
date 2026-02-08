@@ -9,22 +9,15 @@ const featuredWork = [
     id: 'edgars-winter-2025',
     client: 'Edgars',
     title: 'Winter 2025 Collection',
-    image: '/images/corporate/placeholder.jpg',
+    image: '', // Placeholder removed
     category: 'Fashion',
   },
   {
     id: 'woolworths-home',
     client: 'Woolworths',
     title: 'Home Collection',
-    image: '/images/corporate/placeholder.jpg',
+    image: '', // Placeholder removed
     category: 'Lifestyle',
-  },
-  {
-    id: 'brand-campaign',
-    client: 'Brand',
-    title: 'Campaign 2025',
-    image: '/images/corporate/placeholder.jpg',
-    category: 'Commercial',
   },
 ];
 
@@ -252,13 +245,13 @@ export default function Home() {
           </p>
           <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
             <Link href="/contact" className="btn btn-primary">Discuss a Project</Link>
-            <a
+            {/* <a
               href="/downloads/juvane-portfolio-2026.pdf"
               download
               className="btn btn-outline"
             >
               Download Portfolio (PDF)
-            </a>
+            </a> */}
           </div>
         </div>
       </section>
